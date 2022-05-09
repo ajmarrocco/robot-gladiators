@@ -17,7 +17,7 @@ A browser-based game that uses JavaScript that allows you to fight other robots,
 
 ### Installation
 1. Clone repository using `git@github.com:ajmarrocco/robot-gladiators.git`
-2. Opne index.html in default browser
+2. Open index.html in default browser
 
 ### Usage 
 All dependencies must be installed prior to using application
