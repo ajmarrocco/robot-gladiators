@@ -10,7 +10,7 @@
 * [Questions](#questions)
 
 ### Description
-A browser-based game that uses JavaScript that allows you to fight other robots, buy health and other potions!
+A browser-based game that uses JavaScript that allows you to fight other robots, buy health or upgrade your attack!
 
 ### Technologies Used
 * JavaScript
